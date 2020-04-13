@@ -1,0 +1,11 @@
+Week One: Introduction - Why we program?
+Week Two: Variables and Expressions
+Week Three: Conditional code code
+Week Four: Functions 
+Week Five: Loops and Iteration
+Week Six: Strings Functions
+Week Seven: Files Loops
+Week Eight: Lists Two Regular Variables
+Week Nine: Dictionaries One Dictionaries
+Week Ten: Tuples One:
+Optional Topic: Regular Expressions
